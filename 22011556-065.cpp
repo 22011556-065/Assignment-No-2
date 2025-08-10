@@ -10,7 +10,7 @@ public:
         next = NULL;
     }
 };
-
+ cc
 class LinkedList {
 private:
     Node* head;
@@ -202,3 +202,4 @@ int main() {
 
     return 0;
 }
+
